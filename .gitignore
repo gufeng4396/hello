@@ -1,0 +1,6 @@
+#ignore .exe  .o  .dll .class .com
+*.exe
+*.com
+*.o
+*.class
+*.com
