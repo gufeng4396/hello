@@ -1,5 +1,5 @@
 # MarkDown is good !
-## This is a novicate's github !
+## This is a novicate's git!
 ```c++
 #include<iostream>
 using std::cout;
