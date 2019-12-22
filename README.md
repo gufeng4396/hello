@@ -1,15 +1,13 @@
-# very good
-**what**
-(```)
+# MarkDown is good !
+## This is a novicate's github !
+```c++
 #include<iostream>
 using std::cout;
 int main(){
-    cout<<"good";
+    cout<<"hello";
+    cout<<"こんにちは";
+    cout<<"你好";
     return 0;
 }
-(```)
-```flow
-st=>start
-en=>end
-st->en
-&```
+```
+-------
